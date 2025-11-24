@@ -12,8 +12,7 @@ With Catenary, you can see all of the bus routes and train lines operated by the
 ### Rail
 
 * **CTA 'L'** (rapid transit) is supported
-  * Realtime train positions and predicted arrival times are supported
-  * Alerts are not supported
+  * Realtime train positions, predicted arrival times, and alerts are supported
 * **Metra** commuter rail is supported
   * Realtime train positions, predicted arrival times, and alerts are supported
 * **NICTD South Shore Line** (commuter rail) is supported
@@ -24,6 +23,7 @@ With Catenary, you can see all of the bus routes and train lines operated by the
 
 * **CTA buses** are supported
   * Realtime data is not available
+  * Alerts are available
 * **Pace buses** are supported
   * Realtime data is available, but it seems to have issues
   * Alerts are not supported
@@ -92,7 +92,7 @@ If you want to improve our data/maps, [join our Discord](https://discord.gg/bBeD
 Things we want to work on for Chicago:
 
 * [ ] Get working alerts from Pace (this is rather difficult)
-* [ ] Get alerts from CTA (there is a good API, that we have to write custom code to connect to)
+* [x] Get alerts from CTA (there is a good API, that we have to write custom code to connect to)
 * [ ] Get working alerts from NICTD (there is also a good API we need to connect to)
 
 CTA will provide GTFS-RT in the future, so we don't currently want to convert their current bus position API.
