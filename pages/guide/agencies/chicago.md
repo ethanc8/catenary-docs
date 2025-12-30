@@ -93,6 +93,10 @@ Things we want to work on for Chicago:
 
 * [ ] Get working alerts from Pace (this is rather difficult)
 * [x] Get alerts from CTA (there is a good API, that we have to write custom code to connect to)
-* [ ] Get working alerts from NICTD (there is also a good API we need to connect to)
+* [x] Get working alerts from NICTD (there is also a good API we need to connect to)
+* [ ] Get realtime data for CTA buses
+* [ ] Get arrival time estimates for NICTD
+* [ ] Get NICTD to issue valid GTFS so we don't have to fix it ourselves
+* [ ] Figure out whether NICTD train 952 exists or not
+* [ ] Show the train numbers as ([`trip_short_name`](https://gtfs.org/documentation/schedule/reference/#tripstxt)) for Metra and NICTD trains
 
-CTA will provide GTFS-RT in the future, so we don't currently want to convert their current bus position API.
