@@ -12,10 +12,33 @@ const withNextra = nextra({
 
 export default withNextra({
   i18n: {
-    locales: ['en', 'es', 'fr', 'de'],
+    locales: ['de', 'en', 'es', 'fr'],
     defaultLocale: 'en'
   },
+  redirects: () => [
+    {
+      source: '/',
+      destination: '/home',
+      permanent: true,
+    },
+    {
+      source: '/fr',
+      destination: '/fr/home',
+      permanent: true,
+    },
+    {
+      source: '/es',
+      destination: '/es/home',
+      permanent: true,
+    },
+    {
+      source: '/de',
+      destination: '/de/home',
+      permanent: true,
+    }
+  ],
   reactStrictMode: true,
+  pageExtensions: ['js', 'jsx', 'md', 'mdx', 'ts', 'tsx'],
   eslint: {
     ignoreDuringBuilds: true
   },

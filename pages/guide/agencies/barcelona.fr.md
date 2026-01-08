@@ -1,0 +1,87 @@
+# Barcelone
+
+Catenary est une application de transport qui vous aide à voir où se trouve votre bus ou votre train, n'importe où à Barcelone et ses banlieues.
+Regardez les départs en direct, explorez les arrêts à proximité et vérifiez les alertes de service — le tout depuis un seul endroit.
+
+[**Lancer Catenary**](https://maps.catenarymaps.org/#pos=10/41.8652/-87.6198)
+
+## Agences supportées
+
+Avec Catenary, vous pouvez voir tous les itinéraires de bus et lignes de train exploités par les agences suivantes, voir les prochains départs et consulter leurs horaires. De plus, la plupart d'entre elles fournissent des données en temps réel, vous pouvez donc savoir si votre train/bus est en retard et voir les véhicules individuels sur la carte.
+
+### Rail
+
+* Les trains **TMB Metro** sont pris en charge
+  * Les heures d'arrivée prévues et les alertes sont prises en charge
+  * Les positions des trains ne sont pas disponibles (donc les trains ne peuvent pas être vus sur la carte)
+* Les trains de banlieue **Renfe Rodalies** sont pris en charge
+  * Les positions des trains en temps réel, les heures d'arrivée prévues et les alertes sont prises en charge
+* Les trains **FGC Metro, Suburban et Rodalies** sont pris en charge
+  * Les positions des trains en temps réel, les heures d'arrivée prévues et les alertes sont prises en charge
+* Les tramways **Trambesòs** sont pris en charge
+  * Les positions des trains en temps réel, les heures d'arrivée prévues et les alertes sont prises en charge
+* Les tramways **Trambaix** sont pris en charge
+  * Les heures d'arrivée prévues et les alertes sont prises en charge
+  * Les positions des trains ne sont pas disponibles (donc les trains ne peuvent pas être vus sur la carte)
+
+### Bus
+
+* Les bus **TMB** sont pris en charge
+  * Les heures d'arrivée prévues et les alertes sont prises en charge
+  * Les positions des bus ne sont pas disponibles (donc les bus ne peuvent pas être vus sur la carte)
+* Les bus **AMB** sont pris en charge
+  * Les heures d'arrivée prévues et les alertes sont prises en charge
+  * Les positions des bus ne sont pas disponibles (donc les bus ne peuvent pas être vus sur la carte)
+
+## Questions fréquemment posées
+
+### Est-ce que Catenary affiche des données en temps réel à Barcelone ?
+Oui. Catenary fournit des emplacements de trains en direct et des heures de départ estimées à Barcelone. Vous pouvez voir les trains se déplacer sur la carte et cliquer sur votre train pour suivre son mouvement.
+
+Nous n'avons pas d'emplacements de trains ou de bus en direct pour TMB ou AMB, mais nous avons toujours des heures de départ estimées.
+
+### Est-ce que Catenary affiche des alertes de service à Barcelone ?
+
+Nous affichons les alertes de service pour tous les principaux opérateurs à Barcelone.
+
+### Dois-je télécharger une application ?
+Non. Catenary fonctionne directement dans votre navigateur — cliquez simplement sur [**Lancer Catenary**](https://maps.catenarymaps.org/#pos=10/41.8652/-87.6198).
+
+### Catenary est-il gratuit ?
+Oui. C'est entièrement gratuit et fonctionne sur mobile ou ordinateur.
+
+### Quand arrive le prochain bus/train ?
+
+[**Lancer Catenary**](https://maps.catenarymaps.org/#pos=10/41.8652/-87.6198) et recherchez votre arrêt, ou zoomez pour le trouver. Après avoir cliqué sur l'arrêt, les prochaines arrivées s'afficheront.
+
+### Quel arrêt de bus ou gare est le plus proche de moi ?
+
+[**Lancer Catenary**](https://maps.catenarymaps.org/#pos=10/41.8652/-87.6198) et votre position actuelle apparaîtra. Vous pouvez parcourir la carte pour trouver l'arrêt le plus proche.
+
+### Je ne m'intéresse qu'aux trains ; puis-je masquer les bus ?
+
+Oui ; dans le coin supérieur droit, vous pouvez cliquer sur l'icône "calque"...
+
+![alt text](./find-layers-button.png)
+
+... et masquer ce que vous ne voulez pas voir :
+
+![alt text](./layers-popup.png)
+
+## Diagrammes et cartes PDF
+
+* Cartes officielles
+  * [Réseau ferroviaire](https://www.atm.cat/documents/d/portal-atm/planol_atm_juliol2025-tz_v2)
+  * [TMB Metro](https://www.tmb.cat/documents/20182/45206/Pl%C3%A0nol+xarxa+de+Metro.pdf/f5578f40-5a66-46ba-907c-cf31e0d368c0?t=1743600720567)
+  * [Renfe Rodalies](https://www.renfe.com/content/dam/renfe/es/Viajeros/Secciones/Cercanias/Mapas/2025/mapa_de_lineas_rodalia_de_barcelona_y_regionales_de_catalunya.pdf)
+* Cartes non officielles
+  * [Renfe Rodalies et TMB](https://upload.wikimedia.org/wikipedia/commons/4/43/Rodalies_barcelona_2013.svg)
+
+## Comment aider
+
+Si vous souhaitez améliorer nos données/cartes, [rejoignez notre Discord](https://discord.gg/bBeDhrzSgz) et rendez-vous sur l'un des fils/canaux suivants :
+* [#general](https://discord.com/channels/1148092048625385552/1148092049413918772) - pour les problèmes non liés à l'agence spécifique
+* [Barcelone](https://discord.com/channels/1148092048625385552/1436942476110856282)
+
+Choses sur lesquelles nous voulons travailler pour Barcelone :
+* [ ] Trouver un moyen d'estimer les emplacements des trains et des bus en fonction des heures d'arrivée prévues, afin qu'ils puissent être affichés à l'écran

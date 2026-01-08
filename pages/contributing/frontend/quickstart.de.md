@@ -1,0 +1,3 @@
+# Frontend Schnellstartanleitung
+
+Demnächst...

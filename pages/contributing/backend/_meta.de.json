@@ -1,0 +1,7 @@
+{
+    "quickstart": "Schnellstartanleitung",
+    "routing": "Routing-Engine",
+    "database": "Datenbank und Ingestion",
+    "distributed": "Verteilte Systeme",
+    "loom": "Generierung von Routen"
+}

@@ -1,0 +1,34 @@
+{
+    "home": {
+        "type": "page",
+        "title": "Accueil",
+        "theme": {
+            "timestamp": false,
+            "layout": "raw"
+        }
+    },
+    "guide": {
+        "type": "page",
+        "title": "Guide de l'Utilisateur"
+    },
+    "contributing": {
+        "type": "page",
+        "title": "Contribuer"
+    },
+    "publicapi": {
+        "type": "page",
+        "title": "API Publique"
+    },
+    "style": {
+        "type": "page",
+        "title": "Guide de Style"
+    },
+    "404": {
+        "type": "page",
+        "title": "Page Non Trouvée",
+        "display": "hidden",
+        "theme": {
+            "timestamp": false
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+  "home": {
+    "type": "page",
+    "title": "Home",
+    "theme": {
+      "timestamp": false,
+      "layout": "raw"
+    }
+  },
+  "guide": {
+    "type": "page",
+    "title": "User Guide"
+  },
+  "contributing": {
+    "type": "page",
+    "title": "Contributing"
+  },
+  "publicapi": {
+    "type": "page",
+    "title": "Public API"
+  },
+  "style": {
+    "type": "page",
+    "title": "Style Guide"
+  },
+  "404": {
+    "type": "page",
+    "title": "Page Not Found",
+    "display": "hidden",
+    "theme": {
+      "timestamp": false
+    }
+  }
+}

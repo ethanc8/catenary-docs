@@ -1,0 +1,7 @@
+{
+    "quickstart": "Guide de démarrage rapide",
+    "routing": "Moteur de routage",
+    "database": "Base de données et ingestion",
+    "distributed": "Systèmes distribués",
+    "loom": "Génération de routes"
+}
