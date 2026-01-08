@@ -9,7 +9,7 @@ Watch live departures, explore nearby stops, and check service alerts — all fr
 
 With Catenary, you can see all of the bus routes and train lines operated by the following agencies, view upcoming departures, and view their timetables. Also, most of them provide realtime data, so you can know if your train/bus is late and see individual vehicles on the map.
 
-## Rail
+### Rail
 
 * MTA NYCT New York City Subway
   * Realtime train positions, predicted arrival times, and alerts are supported
@@ -23,34 +23,59 @@ With Catenary, you can see all of the bus routes and train lines operated by the
   * No realtime data is available
 * Port Authority Trans-Hudson
   * No realtime data is available
-* Amtrak and CTrail Shore Line East
+  * Service alerts are available
+* Amtrak/CTrail Shore Line East
   * Realtime train positions, predicted arrival times, and alerts are supported
-* CTrail Hartford Line
-  * No realtime data is available
+* Amtrak/CTrail Hartford Line
+  * No realtime data is available for CTrail trains
+  * Realtime data is available for Amtrak trains
 * Hudson-Bergen Light Rail
   * No realtime data is available
 * Newark Light Rail, including Newark City Subway
   * No realtime data is available
 
+### Aerial lift
+
+* Roosevelt Island Tramway
+  * No realtime data is available
+
 ### Bus
 
-#### Public operators
+#### New York City
 * MTA New York City Bus
   * Realtime bus positions, predicted arrival times, and alerts are supported
+* Hudson Rail Link
+  * No realtime data is available
+* New York Waterway
+  * No realtime data is available
+* Roosevelt Island Operating Corporation
+  * No realtime data is available
+
+#### New Jersey
 * NJ Transit
   * Realtime bus positions, predicted arrival times, and alerts are supported
-* CTtransit
-  * Realtime bus positions, predicted arrival times, and alerts are supported
+
+#### Hudson Valley
 * Westchester County, NY - Bee-Line System
   * Realtime bus positions, predicted arrival times, and alerts are supported
 * Town of Clarkstown, Westchester County, NY - Clarkstown Mini Trans
   * No realtime data is available
 * Lower Hudson Transit Link
   * No realtime data is available
-* Hudson Rail Link
-  * No realtime data is available
 * Putnam County, NY - Putnam Area Rapid Transit
   * No realtime data is available
+
+#### Long Island
+* Nassau Inter-County Express
+  * Realtime bus positions, predicted arrival times, and alerts are supported
+* Long Beach Transit
+  * No realtime data is available
+* Suffolk County Transit
+  * No realtime data is available
+
+#### Connecticut
+* CTtransit
+  * Realtime bus positions, predicted arrival times, and alerts are supported
 * Housatonic Area Regional Transit
   * Realtime bus positions, predicted arrival times, and alerts are supported
 * Norwalk Transit District
@@ -60,6 +85,17 @@ With Catenary, you can see all of the bus routes and train lines operated by the
 * Coach USA and Megabus
   * No realtime data is available
 * Monsey Trails
+  * No realtime data is available
+
+### Ferry
+
+* New York Waterway
+  * No realtime data is available
+* NYCDOT Staten Island Ferry
+  * No realtime data is available
+* NYC Ferry
+  * No realtime data is available
+* Seastreak
   * No realtime data is available
 
 ## Not supported
@@ -172,3 +208,4 @@ Things we want to work on for New York:
 * [ ] Check if CTtransit Hartford Line has realtime data
 * [ ] Add track numbers to realtime data at major stations
 * [ ] Get realtime data for PATH and NJ Transit light rail
+* [ ] Use the realtime data currently published by Long Beach Transit
