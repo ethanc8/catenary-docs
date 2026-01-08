@@ -6,46 +6,46 @@ The cities are numbered by the [size of their urban agglomeration](https://cityp
 
 ## North America
 
-* [22M] [New York City](nyc.md)
-* [17M] [Los Angeles (and Orange County, and Inland Empire)](la.md) 
-* [10M] [Chicago](chicago.md) - limited realtime data, full support for static data
-* [9M] [Washington, DC](washington.md) 
-* [8M] [Toronto](toronto.md)   
-* [8M] [Dallas-Fort Worth](dfw.md)  
-* [8M] [Boston](boston.md)
-* [8M] [Philadelphia](philadelphia.md) 
+* [22M] [New York City](agencies/nyc.md)
+* [17M] [Los Angeles (and Orange County, and Inland Empire)](agencies/la.md) 
+* [10M] [Chicago](agencies/chicago.md) - limited realtime data, full support for static data
+* [9M] [Washington, DC](agencies/washington.md) 
+* [8M] [Toronto](agencies/toronto.md)   
+* [8M] [Dallas-Fort Worth](agencies/dfw.md)  
+* [8M] [Boston](agencies/boston.md)
+* [8M] [Philadelphia](agencies/philadelphia.md) 
 * [8M] San Francisco Bay Area TODO
-* [7M] [Houston](houston.md)  
-* [7M] [Miami](miami.md)  
-* [6M] [Atlanta](atlanta.md)  
+* [7M] [Houston](agencies/houston.md)  
+* [7M] [Miami](agencies/miami.md)  
+* [6M] [Atlanta](agencies/atlanta.md)  
 * [6M] Detroit-Windsor TODO
 * [5M] Tampa TODO
 
 ## Latin America and the Caribbean
 
-* [25M] [Ciudad de México](cdmx.md) - no realtime
-* [23M] [São Paulo](saopaulo.md)  - no realtime 
+* [25M] [Ciudad de México](agencies/cdmx.md) - no realtime
+* [23M] [São Paulo](agencies/saopaulo.md)  - no realtime 
 * [16M] Buenos Aires TODO - limited support
-* [14M] [Rio de Janeiro](rio.md) - partial support  
+* [14M] [Rio de Janeiro](agencies/rio.md) - partial support  
 * [12M] Lima is **not supported**.  
-* [11M] [Bogotá](bogota.md) - no realtime
-* [8M] [Santiago de Chile](santiago.md) - no realtime
+* [11M] [Bogotá](agencies/bogota.md) - no realtime
+* [8M] [Santiago de Chile](agencies/santiago.md) - no realtime
 * [7M] Monterrey TODO
 * [6M] Guadalajara is **not supported**.  
-* [5M] [Belo Horizonte](belo-horizonte.md) - partial support
+* [5M] [Belo Horizonte](agencies/belo-horizonte.md) - partial support
 
 ## Europe
 
 * [18M] Moscow is **not supported**.  
 * [16M] Istanbul is **not supported**.  
-* [15M] [London](london.md) - partial support
-* [12M] [Paris](paris.md) - no realtime
+* [15M] [London](agencies/london.md) - partial support
+* [12M] [Paris](agencies/paris.md) - no realtime
 * [11M] Rhine-Ruhr (Rhein-Ruhr) TODO
-* [7M] [Madrid](madrid.md) - limited realtime data, full support for static data
+* [7M] [Madrid](agencies/madrid.md) - limited realtime data, full support for static data
 * [6M] Sankt-Petersburg (Saint Petersburg) is **not supported**.
 * [6M] Milan TODO 
 * [6M] Manchester-Liverpool TODO
-* [5M] [Barcelona](barcelona.md) - very good support
+* [5M] [Barcelona](agencies/barcelona.md) - very good support
 
 ## Middle East
 
@@ -83,20 +83,20 @@ The cities are numbered by the [size of their urban agglomeration](https://cityp
 
 Please note that mainland China, Taiwan, South Korea, and North Korea are not supported, for reasons that apply to the entire countries.
 
-* [41M] [Tokyo](tokyo.md) - limited support  
-* [18M] [Keihanshin (including Osaka, Kyoto, Kobe)](keihanshin.md) - very limited support  
-* [11M] [Nagoya](nagoya.md) - very limited support  
-* [6M] [Hong Kong](hongkong.md) - limited support
-* [3M] [Fukuoka](fukuoka.md) - very limited support  
+* [41M] [Tokyo](agencies/tokyo.md) - limited support  
+* [18M] [Keihanshin (including Osaka, Kyoto, Kobe)](agencies/keihanshin.md) - very limited support  
+* [11M] [Nagoya](agencies/nagoya.md) - very limited support  
+* [6M] [Hong Kong](agencies/hongkong.md) - limited support
+* [3M] [Fukuoka](agencies/fukuoka.md) - very limited support  
 
 ## Southeast Asia
 
-* [30M] [Jakarta](jakarta.md) - limited support  
+* [30M] [Jakarta](agencies/jakarta.md) - limited support  
 * [28M] Manila is **not supported**.  
-* [22M] [Bangkok (Krung Thep Maha Nakhon)](bangkok.md) - no realtime
+* [22M] [Bangkok (Krung Thep Maha Nakhon)](agencies/bangkok.md) - no realtime
 * [14M] Saigon (Sài Gòn, Thành Phố Hồ Chí Minh) is **not supported**.
-* [10M] [Klang Valley (Kuala Lumpur, Putrajaya)](klang-valley.md) - decent support
-* [8M] [Singapore](singapore.md)  
+* [10M] [Klang Valley (Kuala Lumpur, Putrajaya)](agencies/klang-valley.md) - decent support
+* [8M] [Singapore](agencies/singapore.md)  
 * [7M] Hanoi (Hà Nội) is **not supported**.
 * [7M] Bandung is **not supported**.
 * [6M] Surabaya is **not supported**.

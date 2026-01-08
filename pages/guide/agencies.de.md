@@ -6,46 +6,46 @@ Die Städte sind nach der [Größe ihrer städtischen Agglomeration](https://cit
 
 ## Nordamerika
 
-* [22M] [New York City](nyc.md)
-* [17M] [Los Angeles (und Orange County, und Inland Empire)](la.md)
-* [10M] [Chicago](chicago.md) - begrenzte Echtzeitdaten, volle Unterstützung für statische Daten
-* [9M] [Washington, DC](washington.md)
-* [8M] [Toronto](toronto.md)
-* [8M] [Dallas-Fort Worth](dfw.md)
-* [8M] [Boston](boston.md)
-* [8M] [Philadelphia](philadelphia.md)
+* [22M] [New York City](agencies/nyc.md)
+* [17M] [Los Angeles (und Orange County, und Inland Empire)](agencies/la.md)
+* [10M] [Chicago](agencies/chicago.md) - begrenzte Echtzeitdaten, volle Unterstützung für statische Daten
+* [9M] [Washington, DC](agencies/washington.md)
+* [8M] [Toronto](agencies/toronto.md)
+* [8M] [Dallas-Fort Worth](agencies/dfw.md)
+* [8M] [Boston](agencies/boston.md)
+* [8M] [Philadelphia](agencies/philadelphia.md)
 * [8M] San Francisco Bay Area TODO
-* [7M] [Houston](houston.md)
-* [7M] [Miami](miami.md)
-* [6M] [Atlanta](atlanta.md)
+* [7M] [Houston](agencies/houston.md)
+* [7M] [Miami](agencies/miami.md)
+* [6M] [Atlanta](agencies/atlanta.md)
 * [6M] Detroit-Windsor TODO
 * [5M] Tampa TODO
 
 ## Lateinamerika und die Karibik
 
-* [25M] [Ciudad de México](cdmx.md) - keine Echtzeitdaten
-* [23M] [São Paulo](saopaulo.md) - keine Echtzeitdaten
+* [25M] [Ciudad de México](agencies/cdmx.md) - keine Echtzeitdaten
+* [23M] [São Paulo](agencies/saopaulo.md) - keine Echtzeitdaten
 * [16M] Buenos Aires TODO - eingeschränkte Unterstützung
-* [14M] [Rio de Janeiro](rio.md) - teilweise Unterstützung
+* [14M] [Rio de Janeiro](agencies/rio.md) - teilweise Unterstützung
 * [12M] Lima **wird nicht unterstützt**.
-* [11M] [Bogotá](bogota.md) - keine Echtzeitdaten
-* [8M] [Santiago de Chile](santiago.md) - keine Echtzeitdaten
+* [11M] [Bogotá](agencies/bogota.md) - keine Echtzeitdaten
+* [8M] [Santiago de Chile](agencies/santiago.md) - keine Echtzeitdaten
 * [7M] Monterrey TODO
 * [6M] Guadalajara **wird nicht unterstützt**.
-* [5M] [Belo Horizonte](belo-horizonte.md) - teilweise Unterstützung
+* [5M] [Belo Horizonte](agencies/belo-horizonte.md) - teilweise Unterstützung
 
 ## Europa
 
 * [18M] Moskau **wird nicht unterstützt**.
 * [16M] Istanbul **wird nicht unterstützt**.
-* [15M] [London](london.md) - teilweise Unterstützung
-* [12M] [Paris](paris.md) - keine Echtzeitdaten
+* [15M] [London](agencies/london.md) - teilweise Unterstützung
+* [12M] [Paris](agencies/paris.md) - keine Echtzeitdaten
 * [11M] Rhein-Ruhr (Rhine-Ruhr) TODO
-* [7M] [Madrid](madrid.md) - begrenzte Echtzeitdaten, volle Unterstützung für statische Daten
+* [7M] [Madrid](agencies/madrid.md) - begrenzte Echtzeitdaten, volle Unterstützung für statische Daten
 * [6M] Sankt-Petersburg (Saint Petersburg) **wird nicht unterstützt**.
 * [6M] Mailand TODO
 * [6M] Manchester-Liverpool TODO
-* [5M] [Barcelona](barcelona.md) - sehr gute Unterstützung
+* [5M] [Barcelona](agencies/barcelona.md) - sehr gute Unterstützung
 
 ## Naher Osten
 
@@ -83,20 +83,20 @@ Die Städte sind nach der [Größe ihrer städtischen Agglomeration](https://cit
 
 Bitte beachten Sie, dass Festlandchina, Taiwan, Südkorea und Nordkorea nicht unterstützt werden, aus Gründen, die für die gesamten Länder gelten.
 
-* [41M] [Tokio](tokyo.md) - eingeschränkte Unterstützung
-* [18M] [Keihanshin (einschließlich Osaka, Kyoto, Kobe)](keihanshin.md) - sehr eingeschränkte Unterstützung
-* [11M] [Nagoya](nagoya.md) - sehr eingeschränkte Unterstützung
-* [6M] [Hongkong](hongkong.md) - eingeschränkte Unterstützung
-* [3M] [Fukuoka](fukuoka.md) - sehr eingeschränkte Unterstützung
+* [41M] [Tokio](agencies/tokyo.md) - eingeschränkte Unterstützung
+* [18M] [Keihanshin (einschließlich Osaka, Kyoto, Kobe)](agencies/keihanshin.md) - sehr eingeschränkte Unterstützung
+* [11M] [Nagoya](agencies/nagoya.md) - sehr eingeschränkte Unterstützung
+* [6M] [Hongkong](agencies/hongkong.md) - eingeschränkte Unterstützung
+* [3M] [Fukuoka](agencies/fukuoka.md) - sehr eingeschränkte Unterstützung
 
 ## Südostasien
 
-* [30M] [Jakarta](jakarta.md) - eingeschränkte Unterstützung
+* [30M] [Jakarta](agencies/jakarta.md) - eingeschränkte Unterstützung
 * [28M] Manila **wird nicht unterstützt**.
-* [22M] [Bangkok (Krung Thep Maha Nakhon)](bangkok.md) - keine Echtzeitdaten
+* [22M] [Bangkok (Krung Thep Maha Nakhon)](agencies/bangkok.md) - keine Echtzeitdaten
 * [14M] Saigon (Sài Gòn, Thành Phố Hồ Chí Minh) **wird nicht unterstützt**.
-* [10M] [Klang Valley (Kuala Lumpur, Putrajaya)](klang-valley.md) - ordentliche Unterstützung
-* [8M] [Singapur](singapore.md)
+* [10M] [Klang Valley (Kuala Lumpur, Putrajaya)](agencies/klang-valley.md) - ordentliche Unterstützung
+* [8M] [Singapur](agencies/singapore.md)
 * [7M] Hanoi (Hà Nội) **wird nicht unterstützt**.
 * [7M] Bandung **wird nicht unterstützt**.
 * [6M] Surabaya **wird nicht unterstützt**.

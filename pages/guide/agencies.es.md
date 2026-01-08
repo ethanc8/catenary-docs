@@ -6,46 +6,46 @@ Las ciudades están numeradas por el [tamaño de su aglomeración urbana](https:
 
 ## América del Norte
 
-* [22M] [Nueva York](nyc.md)
-* [17M] [Los Ángeles (y Condado de Orange, e Inland Empire)](la.md)
-* [10M] [Chicago](chicago.md) - datos en tiempo real limitados, soporte completo para datos estáticos
-* [9M] [Washington, DC](washington.md)
-* [8M] [Toronto](toronto.md)
-* [8M] [Dallas-Fort Worth](dfw.md)
-* [8M] [Boston](boston.md)
-* [8M] [Filadelfia](philadelphia.md)
+* [22M] [Nueva York](agencies/nyc.md)
+* [17M] [Los Ángeles (y Condado de Orange, e Inland Empire)](agencies/la.md)
+* [10M] [Chicago](agencies/chicago.md) - datos en tiempo real limitados, soporte completo para datos estáticos
+* [9M] [Washington, DC](agencies/washington.md)
+* [8M] [Toronto](agencies/toronto.md)
+* [8M] [Dallas-Fort Worth](agencies/dfw.md)
+* [8M] [Boston](agencies/boston.md)
+* [8M] [Filadelfia](agencies/philadelphia.md)
 * [8M] Área de la Bahía de San Francisco POR HACER
-* [7M] [Houston](houston.md)
-* [7M] [Miami](miami.md)
-* [6M] [Atlanta](atlanta.md)
+* [7M] [Houston](agencies/houston.md)
+* [7M] [Miami](agencies/miami.md)
+* [6M] [Atlanta](agencies/atlanta.md)
 * [6M] Detroit-Windsor POR HACER
 * [5M] Tampa POR HACER
 
 ## América Latina y el Caribe
 
-* [25M] [Ciudad de México](cdmx.md) - sin tiempo real
-* [23M] [São Paulo](saopaulo.md) - sin tiempo real
+* [25M] [Ciudad de México](agencies/cdmx.md) - sin tiempo real
+* [23M] [São Paulo](agencies/saopaulo.md) - sin tiempo real
 * [16M] Buenos Aires POR HACER - soporte limitado
-* [14M] [Río de Janeiro](rio.md) - soporte parcial
+* [14M] [Río de Janeiro](agencies/rio.md) - soporte parcial
 * [12M] Lima **no está soportada**.
-* [11M] [Bogotá](bogota.md) - sin tiempo real
-* [8M] [Santiago de Chile](santiago.md) - sin tiempo real
+* [11M] [Bogotá](agencies/bogota.md) - sin tiempo real
+* [8M] [Santiago de Chile](agencies/santiago.md) - sin tiempo real
 * [7M] Monterrey POR HACER
 * [6M] Guadalajara **no está soportada**.
-* [5M] [Belo Horizonte](belo-horizonte.md) - soporte parcial
+* [5M] [Belo Horizonte](agencies/belo-horizonte.md) - soporte parcial
 
 ## Europa
 
 * [18M] Moscú **no está soportada**.
 * [16M] Estambul **no está soportada**.
-* [15M] [Londres](london.md) - soporte parcial
-* [12M] [París](paris.md) - sin tiempo real
+* [15M] [Londres](agencies/london.md) - soporte parcial
+* [12M] [París](agencies/paris.md) - sin tiempo real
 * [11M] Rin-Ruhr (Rhein-Ruhr) POR HACER
-* [7M] [Madrid](madrid.md) - datos en tiempo real limitados, soporte completo para datos estáticos
+* [7M] [Madrid](agencies/madrid.md) - datos en tiempo real limitados, soporte completo para datos estáticos
 * [6M] San Petersburgo **no está soportada**.
 * [6M] Milán POR HACER
 * [6M] Manchester-Liverpool POR HACER
-* [5M] [Barcelona](barcelona.md) - muy buen soporte
+* [5M] [Barcelona](agencies/barcelona.md) - muy buen soporte
 
 ## Oriente Medio
 
@@ -83,20 +83,20 @@ Las ciudades están numeradas por el [tamaño de su aglomeración urbana](https:
 
 Ten en cuenta que China continental, Taiwán, Corea del Sur y Corea del Norte no están soportadas, por razones que aplican a los países enteros.
 
-* [41M] [Tokio](tokyo.md) - soporte limitado
-* [18M] [Keihanshin (incluyendo Osaka, Kioto, Kobe)](keihanshin.md) - soporte muy limitado
-* [11M] [Nagoya](nagoya.md) - soporte muy limitado
-* [6M] [Hong Kong](hongkong.md) - soporte limitado
-* [3M] [Fukuoka](fukuoka.md) - soporte muy limitado
+* [41M] [Tokio](agencies/tokyo.md) - soporte limitado
+* [18M] [Keihanshin (incluyendo Osaka, Kioto, Kobe)](agencies/keihanshin.md) - soporte muy limitado
+* [11M] [Nagoya](agencies/nagoya.md) - soporte muy limitado
+* [6M] [Hong Kong](agencies/hongkong.md) - soporte limitado
+* [3M] [Fukuoka](agencies/fukuoka.md) - soporte muy limitado
 
 ## Sudeste Asiático
 
-* [30M] [Yakarta](jakarta.md) - soporte limitado
+* [30M] [Yakarta](agencies/jakarta.md) - soporte limitado
 * [28M] Manila **no está soportada**.
-* [22M] [Bangkok (Krung Thep Maha Nakhon)](bangkok.md) - sin tiempo real
+* [22M] [Bangkok (Krung Thep Maha Nakhon)](agencies/bangkok.md) - sin tiempo real
 * [14M] Saigón (Sài Gòn, Ciudad Ho Chi Minh) **no está soportada**.
-* [10M] [Valle de Klang (Kuala Lumpur, Putrajaya)](klang-valley.md) - soporte decente
-* [8M] [Singapur](singapore.md)
+* [10M] [Valle de Klang (Kuala Lumpur, Putrajaya)](agencies/klang-valley.md) - soporte decente
+* [8M] [Singapur](agencies/singapore.md)
 * [7M] Hanói **no está soportada**.
 * [7M] Bandung **no está soportada**.
 * [6M] Surabaya **no está soportada**.
