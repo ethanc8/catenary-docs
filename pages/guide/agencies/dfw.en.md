@@ -40,6 +40,10 @@ With Catenary, you can see all of the bus routes and train lines operated by the
   * Realtime train positions and predicted arrival times are support
   * Alerts are not available
 
+## Not supported
+
+* **[Arlington Express pilot service](https://www.arlingtontx.gov/City-Services/Transportation-Streets-Traffic/Arlington-On-Demand)** buses are not supported
+
 ## Diagrams and PDF maps
 
 * [Rail network diagram](https://dartorgcmsblob.dart.org/prod/docs/default-source/dart-maps/l5c_121-5593-0725-silver-line-fy25---customer-information-signage---rail-map-rail-interior_digital.pdf?sfvrsn=2aafae30_3)
@@ -87,6 +91,9 @@ If you want to improve our data/maps, [join our Discord](https://discord.gg/bBeD
 
 Things we want to work on for Dallas-Fort Worth:
 
-* [ ] There is realtime data available in different formats that we may be able to convert
-* [ ] We need to convert alerts from the feed on the website
+* [ ] Get alerts
+* [ ] Get realtime data for DCTA
+* [ ] Get realtime data for M-Line trolley
+* [ ] Get realtime data for TEXRail
+* [ ] Provide timetable for the [Arlington Express pilot service](https://www.arlingtontx.gov/City-Services/Transportation-Streets-Traffic/Arlington-On-Demand)
 
