@@ -17,7 +17,8 @@ With Catenary, you can see all of the bus routes and train lines operated by the
   * Realtime train positions, predicted arrival times, and alerts are supported
 * **NICTD South Shore Line** (commuter rail) is supported
   * Realtime train positions are supported
-  * Predicted arrival times and alerts are not supported
+  * Alerts are supported
+  * Predicted arrival times are not supported
 
 ### Bus
 
@@ -38,7 +39,7 @@ We also provide live bus locations in the Chicago suburbs, but unfortunately CTA
 
 ### Does Catenary show service alerts in Chicago?
 
-We show service alerts for Metra trains. Unfortunately, CTA, Pace, and NICTD do not provide service alerts in a format we can use.
+We show service alerts for CTA buses and Metra, NICTD, and CTA 'L' trains. Unfortunately, Pace does not provide service alerts in a format we can use.
 
 ### Can I see which track my train will be departing from?
 
