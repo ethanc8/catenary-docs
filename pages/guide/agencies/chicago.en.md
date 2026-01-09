@@ -79,7 +79,9 @@ Yes; in the top-right corner you can click on the "layer" icon...
 The progress of adding support for Chicagoland transit operators is tracked at the following spreadsheet:
 <https://docs.google.com/spreadsheets/d/15wKbfusysMrV_2lPuMFXCFsSg-TPV31qtbukZi4sEmU/edit>
 
-CTA realtime data is processed by [@catenarytransit/chicago-gtfs-rt](https://github.com/catenarytransit/chicago-gtfs-rt).
+CTA realtime data is processed by [@catenarytransit/chicago-gtfs-rt](https://github.com/catenarytransit/chicago-gtfs-rt). NICTD realtime data is processed by [@catenarytransit/nictd-gtfs-rt](https://github.com/catenarytransit/nictd-gtfs-rt).
+
+The NICTD GTFS feed had to be manually modified; the modified feed is at [@catenarytransit/nictd-gtfs](https://github.com/catenarytransit/nictd-gtfs).
 
 If you want to improve our data/maps, [join our Discord](https://discord.gg/bBeDhrzSgz) and head to one of the following threads/channels:
 
@@ -97,6 +99,8 @@ Things we want to work on for Chicago:
 * [ ] Get realtime data for CTA buses
 * [ ] Get arrival time estimates for NICTD
 * [ ] Get NICTD to issue valid GTFS so we don't have to fix it ourselves
-* [ ] Figure out whether NICTD train 952 exists or not
+* [x] Figure out whether NICTD train 952 exists or not
+  * Response: "That is a train, but it is really not available for passengers."
+  * So it was correct to remove it from the GTFS.
 * [ ] Show the train numbers as ([`trip_short_name`](https://gtfs.org/documentation/schedule/reference/#tripstxt)) for Metra and NICTD trains
 
