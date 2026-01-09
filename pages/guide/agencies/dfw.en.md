@@ -6,23 +6,39 @@ Catenary is a transit app that helps you see where your bus or train is, anywher
 
 ## Supported agencies
 
-With Catenary, you can see all of the bus routes and train lines operated by the following agencies, view upcoming departures, and view their timetables. Realtime data is not available.
+With Catenary, you can see all of the bus routes and train lines operated by the following agencies, view upcoming departures, and view their timetables. Also, most of them provide realtime data, so you can know if your train/bus is late and see individual vehicles on the map.
 
 ### Rail
 
 * **DART light rail** is supported
+  * Realtime train positions and predicted arrival times are support
+  * Alerts are not available
 * **DART Silver Line** is supported
+  * Realtime train positions and predicted arrival times are support
+  * Alerts are not available
 * **A-Line** (Denton County) is supported
+  * No realtime data is available
 * **TEXRail** is supported
+  * No realtime data is available
 * **Trinity Railway Express** is supported
+  * Realtime train positions are supported
+  * Predicted arrival times and alerts are not available
 * **Dallas Streetcar** is supported
+  * Realtime train positions and predicted arrival times are support
+  * Alerts are not available
 * **M-Line Trolley** is supported
+  * No realtime data is available
 
 ### Bus
 
 * **DART buses** are supported
+  * Realtime bus positions and predicted arrival times are support
+  * Alerts are not available
 * **Denton County Transportation Authority** buses are supported
+  * No realtime data is available
 * **Trinity Metro** buses are supported
+  * Realtime train positions and predicted arrival times are support
+  * Alerts are not available
 
 ## Diagrams and PDF maps
 
