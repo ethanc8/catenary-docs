@@ -17,29 +17,25 @@ With Catenary, you can see all of the bus routes and train lines operated by the
   * Realtime data is not available.
 * **London Tramlink** is supported.
   * Realtime data is not available.
+* **Mainline railways** (all railways supported by National Rail Enquiries) are supported
+  * Realtime train positions and predicted arrival times are supported
+  * Track numbers are available
+  * Alerts are not available
 
 ### Bus
 
 We support bus operators which provide data to the [Bus Open Data Service](https://www.bus-data.dft.gov.uk/) of the Department for Transport.
-
-## Not supported
-
-### Rail
-
-* **Elizabeth Line** is not supported.
-* **Thameslink** is not supported.
-* **London Overground** is not supported.
-* Other mainline railway services are not supported.
 
 ## Frequently asked questions
 
 ### Does Catenary show real-time data in London?
 We provide live bus locations and estimated departure times in London, for operators which provide their data to the [Bus Open Data Service](https://www.bus-data.dft.gov.uk/) of the Department for Transport.
 
-Unfortunately, we do not have real-time train data.
+We provide live train locations and estimated departure times in London for all mainline railways.
+
+Unfortunately, we do not have realtime data for TfL services.
 
 ### Does Catenary show service alerts in London?
-
 We provide service alerts for operators which provide their data to the [Bus Open Data Service](https://www.bus-data.dft.gov.uk/) of the Department for Transport.
 
 ### Do I need to download an app?
