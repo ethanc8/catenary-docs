@@ -6,10 +6,10 @@ The cities are numbered by the [size of their urban agglomeration](https://cityp
 
 ## North America
 
-* [22M] [New York City](agencies/nyc.en.md)
-* [17M] [Los Angeles (and Orange County, and Inland Empire)](agencies/la.en.md) 
+* [22M] [New York City](agencies/nyc.en.md) - good support for large operators
+* [17M] [Los Angeles (and Orange County, and Inland Empire)](agencies/la.en.md) - very good support for large operators
 * [10M] [Chicago](agencies/chicago.en.md) - limited realtime data, full support for static data
-* [9M] [Washington, DC](agencies/washington.en.md) 
+* [9M] [Washington, DC](agencies/washington.en.md)
 * [8M] [Toronto](agencies/toronto.en.md)   
 * [8M] [Dallas-Fort Worth](agencies/dfw.en.md)  
 * [8M] [Boston](agencies/boston.en.md)

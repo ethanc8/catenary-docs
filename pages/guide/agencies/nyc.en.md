@@ -15,8 +15,10 @@ With Catenary, you can see all of the bus routes and train lines operated by the
   * Realtime train positions, predicted arrival times, and alerts are supported
 * MTA Metro-North Railroad
   * Realtime train positions, predicted arrival times, and alerts are supported
+  * Track numbers are availabe
 * MTA Long Island Railroad
   * Realtime train positions, predicted arrival times, and alerts are supported
+  * Track numbers are available
 * New Jersey Transit Rail Operations commuter rail
   * Realtime train positions, predicted arrival times, and alerts are supported
 * AirTrain Newark
@@ -24,7 +26,7 @@ With Catenary, you can see all of the bus routes and train lines operated by the
 * Port Authority Trans-Hudson
   * No realtime data is available
   * Service alerts are available
-* Amtrak/CTrail Shore Line East
+* CTrail Shore Line East
   * Realtime train positions, predicted arrival times, and alerts are supported
 * Amtrak/CTrail Hartford Line
   * No realtime data is available for CTrail trains
@@ -83,7 +85,7 @@ With Catenary, you can see all of the bus routes and train lines operated by the
 
 #### Private operators
 * Coach USA and Megabus
-  * No realtime data is available
+  * No realtime data is trainavailable
 * Monsey Trails
   * No realtime data is available
 
@@ -94,7 +96,7 @@ With Catenary, you can see all of the bus routes and train lines operated by the
 * NYCDOT Staten Island Ferry
   * No realtime data is available
 * NYC Ferry
-  * No realtime data is available
+  * Realtime ferry positions, predicted arrival times, and alerts are supported
 * Seastreak
   * No realtime data is available
 
@@ -159,7 +161,9 @@ Yes; in the top-right corner you can click on the "layer" icon...
 
 * [New York Penn Station (unofficial)](https://jasongibbs.com/pennstation/) ([PDF](https://jasongibbs.com/pennstation/download.php))
 * [Grand Central Station (unofficial, PDF)](https://jasongibbs.com/grandcentral/download.php)
-* [Newark Penn Station (official, PDF)](https://web.archive.org/web/20251110010236if_/https://content.njtransit.com/sites/default/files/pdfs/maps/NewarkPenn_Directory_8-21.pdf)
+* [Newark Penn Station (official, PDF)](https://content.njtransit.com/sites/default/files/pdfs/maps/directories/Newark%20Directory_050925.pdf)
+* [Secaucus Junction (official, PDF)](https://content.njtransit.com/sites/default/files/pdfs/maps/directories/Secaucus%20Directory%20071625_web.pdf)
+* [Hoboken (official, PDF)](https://content.njtransit.com/sites/default/files/pdfs/maps/directories/Hoboken%20DIR_030526_0.pdf)
 
 ### Buses
 
@@ -205,7 +209,8 @@ If you want to improve our data/maps, [join our Discord](https://discord.gg/bBeD
 Things we want to work on for New York:
 * [ ] Check if the AirTrain Newark data is correct, it seems to have been manually created by Transitland
 * [ ] Manually create some data for AirTrain JFK
-* [ ] Check if CTtransit Hartford Line has realtime data
-* [ ] Add track numbers to realtime data at major stations
+* [ ] Improve the CTrail Hartford Line and Shore Line East data
+* [ ] Add track numbers to realtime data for NJT
 * [ ] Get realtime data for PATH and NJ Transit light rail
-* [ ] Use the realtime data currently published by Long Beach Transit
+* [ ] Fix the route names and colors of NJT light rail
+* [ ] Get alerts for NJ Transit
