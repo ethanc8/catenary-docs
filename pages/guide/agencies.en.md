@@ -1,51 +1,51 @@
 # Supported agencies
 
-Catenary supports many cities! If your city is not supported, see the [adding agencies](../../contributing/nontechnical/workflow.md) guide.
+Catenary supports many cities! If your city is not supported, see the [adding agencies](../../contributing/nontechnical/workflow.en.md) guide.
 
 The cities are numbered by the [size of their urban agglomeration](https://citypopulation.de/en/world/agglomerations/).
 
 ## North America
 
-* [22M] [New York City](agencies/nyc.md)
-* [17M] [Los Angeles (and Orange County, and Inland Empire)](agencies/la.md) 
-* [10M] [Chicago](agencies/chicago.md) - limited realtime data, full support for static data
-* [9M] [Washington, DC](agencies/washington.md) 
-* [8M] [Toronto](agencies/toronto.md)   
-* [8M] [Dallas-Fort Worth](agencies/dfw.md)  
-* [8M] [Boston](agencies/boston.md)
-* [8M] [Philadelphia](agencies/philadelphia.md) 
+* [22M] [New York City](agencies/nyc.en.md)
+* [17M] [Los Angeles (and Orange County, and Inland Empire)](agencies/la.en.md) 
+* [10M] [Chicago](agencies/chicago.en.md) - limited realtime data, full support for static data
+* [9M] [Washington, DC](agencies/washington.en.md) 
+* [8M] [Toronto](agencies/toronto.en.md)   
+* [8M] [Dallas-Fort Worth](agencies/dfw.en.md)  
+* [8M] [Boston](agencies/boston.en.md)
+* [8M] [Philadelphia](agencies/philadelphia.en.md) 
 * [8M] San Francisco Bay Area TODO
-* [7M] [Houston](agencies/houston.md)  
-* [7M] [Miami](agencies/miami.md)  
-* [6M] [Atlanta](agencies/atlanta.md)  
+* [7M] [Houston](agencies/houston.en.md)  
+* [7M] [Miami](agencies/miami.en.md)  
+* [6M] [Atlanta](agencies/atlanta.en.md)  
 * [6M] Detroit-Windsor TODO
 * [5M] Tampa TODO
 
 ## Latin America and the Caribbean
 
-* [25M] [Ciudad de México](agencies/cdmx.md) - no realtime
-* [23M] [São Paulo](agencies/saopaulo.md)  - no realtime 
+* [25M] [Ciudad de México](agencies/cdmx.en.md) - no realtime
+* [23M] [São Paulo](agencies/saopaulo.en.md)  - no realtime 
 * [16M] Buenos Aires TODO - limited support
-* [14M] [Rio de Janeiro](agencies/rio.md) - partial support  
+* [14M] [Rio de Janeiro](agencies/rio.en.md) - partial support  
 * [12M] Lima is **not supported**.  
-* [11M] [Bogotá](agencies/bogota.md) - no realtime
-* [8M] [Santiago de Chile](agencies/santiago.md) - no realtime
+* [11M] [Bogotá](agencies/bogota.en.md) - no realtime
+* [8M] [Santiago de Chile](agencies/santiago.en.md) - no realtime
 * [7M] Monterrey TODO
 * [6M] Guadalajara is **not supported**.  
-* [5M] [Belo Horizonte](agencies/belo-horizonte.md) - partial support
+* [5M] [Belo Horizonte](agencies/belo-horizonte.en.md) - partial support
 
 ## Europe
 
 * [18M] Moscow is **not supported**.  
 * [16M] Istanbul is **not supported**.  
-* [15M] [London](agencies/london.md) - partial support
-* [12M] [Paris](agencies/paris.md) - no realtime
+* [15M] [London](agencies/london.en.md) - partial support
+* [12M] [Paris](agencies/paris.en.md) - no realtime
 * [11M] Rhine-Ruhr (Rhein-Ruhr) TODO
-* [7M] [Madrid](agencies/madrid.md) - limited realtime data, full support for static data
+* [7M] [Madrid](agencies/madrid.en.md) - limited realtime data, full support for static data
 * [6M] Sankt-Petersburg (Saint Petersburg) is **not supported**.
 * [6M] Milan TODO 
 * [6M] Manchester-Liverpool TODO
-* [5M] [Barcelona](agencies/barcelona.md) - very good support
+* [5M] [Barcelona](agencies/barcelona.en.md) - very good support
 
 ## Middle East
 
@@ -83,20 +83,20 @@ The cities are numbered by the [size of their urban agglomeration](https://cityp
 
 Please note that mainland China, Taiwan, South Korea, and North Korea are not supported, for reasons that apply to the entire countries.
 
-* [41M] [Tokyo](agencies/tokyo.md) - limited support  
-* [18M] [Keihanshin (including Osaka, Kyoto, Kobe)](agencies/keihanshin.md) - very limited support  
-* [11M] [Nagoya](agencies/nagoya.md) - very limited support  
-* [6M] [Hong Kong](agencies/hongkong.md) - limited support
-* [3M] [Fukuoka](agencies/fukuoka.md) - very limited support  
+* [41M] [Tokyo](agencies/tokyo.en.md) - limited support  
+* [18M] [Keihanshin (including Osaka, Kyoto, Kobe)](agencies/keihanshin.en.md) - very limited support  
+* [11M] [Nagoya](agencies/nagoya.en.md) - very limited support  
+* [6M] [Hong Kong](agencies/hongkong.en.md) - limited support
+* [3M] [Fukuoka](agencies/fukuoka.en.md) - very limited support  
 
 ## Southeast Asia
 
-* [30M] [Jakarta](agencies/jakarta.md) - limited support  
+* [30M] [Jakarta](agencies/jakarta.en.md) - limited support  
 * [28M] Manila is **not supported**.  
-* [22M] [Bangkok (Krung Thep Maha Nakhon)](agencies/bangkok.md) - no realtime
+* [22M] [Bangkok (Krung Thep Maha Nakhon)](agencies/bangkok.en.md) - no realtime
 * [14M] Saigon (Sài Gòn, Thành Phố Hồ Chí Minh) is **not supported**.
-* [10M] [Klang Valley (Kuala Lumpur, Putrajaya)](agencies/klang-valley.md) - decent support
-* [8M] [Singapore](agencies/singapore.md)  
+* [10M] [Klang Valley (Kuala Lumpur, Putrajaya)](agencies/klang-valley.en.md) - decent support
+* [8M] [Singapore](agencies/singapore.en.md)  
 * [7M] Hanoi (Hà Nội) is **not supported**.
 * [7M] Bandung is **not supported**.
 * [6M] Surabaya is **not supported**.
