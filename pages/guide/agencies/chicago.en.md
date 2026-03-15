@@ -13,6 +13,7 @@ With Catenary, you can see all of the bus routes and train lines operated by the
 
 * **CTA 'L'** (rapid transit) is supported
   * Realtime train positions, predicted arrival times, and alerts are supported
+    * The matching of train positions to scheduled trips is incorrect
 * **Metra** commuter rail is supported
   * Realtime train positions, predicted arrival times, and alerts are supported
 * **NICTD South Shore Line** (commuter rail) is supported
@@ -23,8 +24,7 @@ With Catenary, you can see all of the bus routes and train lines operated by the
 ### Bus
 
 * **CTA buses** are supported
-  * Realtime data is not available
-  * Alerts are available
+  * Realtime bus positions, predicted arrival times, and alerts are supported
 * **Pace buses** are supported
   * Realtime data is available, but it seems to have issues
   * Alerts are not supported
@@ -97,11 +97,12 @@ Things we want to work on for Chicago:
 * [ ] Get working alerts from Pace (this is rather difficult)
 * [x] Get alerts from CTA (there is a good API, that we have to write custom code to connect to)
 * [x] Get working alerts from NICTD (there is also a good API we need to connect to)
-* [ ] Get realtime data for CTA buses
+* [x] Get realtime data for CTA buses
+* [ ] Fix the CTA "L" realtime data (fix the matching between positions and scheduled trips)
 * [ ] Get arrival time estimates for NICTD
 * [ ] Get NICTD to issue valid GTFS so we don't have to fix it ourselves
 * [x] Figure out whether NICTD train 952 exists or not
   * Response: "That is a train, but it is really not available for passengers."
   * So it was correct to remove it from the GTFS.
-* [ ] Show the train numbers as ([`trip_short_name`](https://gtfs.org/documentation/schedule/reference/#tripstxt)) for Metra and NICTD trains
+* [x] Show the train numbers as ([`trip_short_name`](https://gtfs.org/documentation/schedule/reference/#tripstxt)) for Metra and NICTD trains
 
