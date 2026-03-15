@@ -13,6 +13,8 @@ With Catenary, you can see all of the bus routes and train lines operated by the
 
 * **TTC subway** trains are supported
   * Realtime data is not available
+* **TTC light rail** trains are supported
+  * Realtime data is not available
 * **TTC streetcars** are supported
   * Realtime train positions, predicted arrival times, and alerts are supported
 * **GO** commuter trains are supported
@@ -81,5 +83,6 @@ If you want to improve our data/maps, [join our Discord](https://discord.gg/bBeD
 
 Things we want to work on for Toronto:
 
-* [ ] Get working alerts for the TTC subway
-* [ ] Figure out if any realtime data is available for the TTC subway
+* [ ] Get working alerts for the TTC subway + light rail
+* [ ] Add realtime data for the TTC subway + light rail
+* [ ] Add train consist data for GO Transit

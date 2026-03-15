@@ -13,7 +13,9 @@ Avec Catenary, vous pouvez voir tous les itinéraires de bus et lignes de train 
 
 * Les trains **TTC subway** sont pris en charge
   * Les données en temps réel ne sont pas disponibles
-* Les tramways **TTC streetcars** sont pris en charge
+* Les trains **métro leger TTC** sont pris en charge
+  * Les données en temps réel ne sont pas disponibles
+* Les **tramways TTC** sont pris en charge
   * Les positions des trains en temps réel, les heures d'arrivée prévues et les alertes sont prises en charge
 * Les trains de banlieue **GO** sont pris en charge
   * Les positions des trains en temps réel, les heures d'arrivée prévues et les alertes sont prises en charge
@@ -81,5 +83,6 @@ Si vous souhaitez améliorer nos données/cartes, [rejoignez notre Discord](http
 
 Choses sur lesquelles nous voulons travailler pour Toronto :
 
-* [ ] Obtenir des alertes fonctionnelles pour le métro TTC
-* [ ] Déterminer si des données en temps réel sont disponibles pour le métro TTC
+* [ ] Recevoir des alertes de fonctionnement pour le métro et le tramway de la TTC
+* [ ] Ajouter des données en temps réel pour le métro et le tramway de la TTC
+* [ ] Ajouter des données sur la composition des trains pour GO Transit
